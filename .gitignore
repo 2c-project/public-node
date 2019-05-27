@@ -1,0 +1,15 @@
+/target/*
+out/
+data/
+.idea
+.Logs
+.project
+.settings
+.classpath
+.DS_Store
+
+*.class
+*.iml
+
+resources/configs/application-*.config
+node.pid
